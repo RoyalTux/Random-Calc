@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\дмитрий\desktop\winapi_6\winapi_6\main.cpp(46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WINAPI_6.vcxproj -> C:\Users\Дмитрий\Desktop\WINAPI_6\Debug\WINAPI_6.exe
+  WINAPI_6.vcxproj -> C:\Users\Дмитрий\Desktop\WINAPI_6\Debug\WINAPI_6.pdb (Full PDB)
